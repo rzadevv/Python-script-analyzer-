@@ -1,6 +1,5 @@
-# AI Assignment - Task 2
-E23011006 - Rufi Aliyev
-E23011004 - Rza Mirzayev
+# AI Assignment 
+
 ## Overview
 This Python script analyzes a dataset containing questions, human answers, and machine answers. The goal is to perform various analyses, including generating word clouds, plotting histograms of answer lengths, and calculating cosine similarity scores between questions and answers.
 
